@@ -1,0 +1,24 @@
+ ... Temas pandas ...
+
+- Conceptos basicos... Dataframe / Series...
+
+- Ingresar y visualizar datos.. read_csv  /  shape[]  /  head()  /  tail()  /  info()
+
+- Analisis: Contar y ordenar registros...  value_counts()  /  sort_values()  /  
+  * Indexación Booleana
+  * Manejo de strings
+
+- Graficos... con matplotlib.
+
+- Indexación... Con _index()  /  set_index()  /  reset_index()  /  sort_index()
+  * Localizar por etiquetas... Con loc[] / Grupos por etiquetas... con iloc[]
+
+- Agrupar elementos... Con Groupby()
+  * Iterar entre grupos..
+
+- Dar formato... Redefinir el formato DataFrame...
+  * Apilar y desapilar datos... Con stack() y unstack()
+
+
+
+https://chat.openai.com/share/274364a5-ea3f-44d5-8416-af693db18230

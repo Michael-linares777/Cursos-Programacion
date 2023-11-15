@@ -1,0 +1,1 @@
+"D:\Anaconda" "C:\Users\Administrador\PycharmProjects\Curso_Selenium\Automatizar\dist\my_script"
