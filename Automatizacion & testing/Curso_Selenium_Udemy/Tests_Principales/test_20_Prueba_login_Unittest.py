@@ -1,3 +1,4 @@
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -27,7 +28,7 @@ class PruebaLogin(unittest.TestCase):
         error = self.driver.find_element(By.XPATH, "//h3[contains(@data-test,'error')]")
         error = error.text
         if error == "Epic sadface: Username and password do not match any user in this service":
-            print("Los datos son incorrectos...\nPrueba uno OK...")
+            print(f"Los datos son incorrectos...{error} \nPrueba uno OK...")
         time.sleep(t)
 
 

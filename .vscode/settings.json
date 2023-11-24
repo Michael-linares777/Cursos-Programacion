@@ -1,3 +1,6 @@
 {
-    "scm-buttons.showGitCheckout": true
+    "scm-buttons.showGitCheckout": true,
+    "cSpell.words": [
+        "saludo"
+    ]
 }

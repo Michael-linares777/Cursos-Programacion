@@ -5,81 +5,143 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="151559a0-8096-440d-a699-09f0efdad3e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Cursos Programacion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/test_31_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ (2).gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Curso_Selenium.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings (2).xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc (2).xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cursos_Python/Curso_Python_Udemy/Dia_1/proyecto_dia_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cursos_Python/Curso_Python_Udemy/practica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules (2).xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/test_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace (2).xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/extensions.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificación_ISTQB/Notas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificación_ISTQB/Notas_(QA)_(ISTQB).ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificación_ISTQB/Plantillas (QA)/CAP5_ISTQB .pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificación_ISTQB/Plantillas (QA)/CAP6_ISTQB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificación_ISTQB/Plantillas (QA)/CAP_1_ISTQB_FullAdvanced V1.01.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificación_ISTQB/Plantillas (QA)/CAP_2_ISTQB_FullAdvanced.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificación_ISTQB/Plantillas (QA)/CAP_3_ISTQB_FullAdvanced.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificación_ISTQB/Plantillas (QA)/CAP_4_ISTQB_FullAdvanced.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificación_ISTQB/Plantillas (QA)/ISTQB_CTFL_Syllabus-v4.0-ES.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificación_ISTQB/Plantillas (QA)/Introduccion+al+Software+Testing+-+Resumen+v.2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificación_ISTQB/Plantillas (QA)/Introducción a las Pruebas de Sistemas de Información.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Gherkin_&amp;_Cucumber/prueba_Gherkin.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_(POO)_Python/Ejercicios_(POO).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_(POO)_Python/Notas_(POO).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Gherkin_&amp;_Cucumber/Notas_Gherkin.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Gherkin_&amp;_Cucumber/ejemplo_base_login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Gherkin_&amp;_Cucumber/transfer_money.feature" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Curso_Git_&amp;_GitHub_udemy/Notas_Git_&amp;_GitHub.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Curso_Git_&amp;_GitHub_udemy/Notas_Git_&amp;_GitHub.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_1/Recursos/Input.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_1/Recursos/Print.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_1/Recursos/Proyecto+del+Día+1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_1/Recursos/Strings.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_2/Ejercicios/proyecto_final_2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_2/Recursos/Conversiones+entre+Tipos+de+Datos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_2/Recursos/Formatear+Cadenas.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_2/Recursos/Integers+y+Floats.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_2/Recursos/Los+Nombres+de+las+Variables.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_2/Recursos/Operadores+Matemáticos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_2/Recursos/Proyecto+del+Día+2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_2/Recursos/Redondeo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_2/Recursos/Tipos+de+Datos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_2/Recursos/Variables.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Ejercicios/ejercicios_practicos_4.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Ejercicios/proyecto_final_4.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Recursos/Comprensión+de+Listas.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Recursos/Control+de+Flujo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Recursos/Enumerador.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Recursos/Loops+For.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Recursos/Loops+While.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Recursos/Match.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Recursos/Min+&amp;+Max.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Recursos/Operadores+Lógicos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Recursos/Operadores+de+Comparación.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Recursos/Proyecto+del+Día+4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Recursos/Random.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Recursos/Rango.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_4/Recursos/Zip.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Ejercicios/ejercicios_practicos_5.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Ejercicios/proyecto_final_5.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Recursos/Argumentos+Indefinidos+args.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Recursos/Argumentos+Indefinidos+kwargs.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Recursos/Diagrama+Ahorcado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Recursos/Documentación.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Recursos/Ejercicio_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Recursos/Ejercicio_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Recursos/Ejercicio_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Recursos/Ejercicio_4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Recursos/Funciones+Dinámicas.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Recursos/Funciones.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Recursos/Interacción+entre+Funciones.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Recursos/Proyecto+del+Día+5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_5/Recursos/Return.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_6/Ejercicios/ejercicios_udemy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/Dia_7/Ejercicios/ejercicios_udemy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/dia_3/Ejercicios/Proyecto_final_3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/dia_3/Ejercicios/ejercicios_practicos_3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/dia_3/Ejercicios/ejercicios_teoricos.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/dia_3/Recursos/Booleanos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/dia_3/Recursos/Diccionarios.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/dia_3/Recursos/Listas.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/dia_3/Recursos/Métodos+de+Strings.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/dia_3/Recursos/Propiedades+de+Strings.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/dia_3/Recursos/Proyecto+del+Día+3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/dia_3/Recursos/Sets+-+Métodos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/dia_3/Recursos/Substrings.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/dia_3/Recursos/Tuples.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy/dia_3/Recursos/index(+).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Python_Udemy_2.0/notas_ejemplos.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Curso_SQL_Dalto/Notas_SQL.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Curso_SQL_Dalto/Notas_SQL.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Librerias_Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso_Selenium_Udemy/Librerias_Selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Notas_Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso_Selenium_Udemy/Notas_Selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_10_Select_ComboBox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_11_Select_Try_Catch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_12_Upload_Archivo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_13_Scroll.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_14_Links_&amp;_TAG.NAME.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_15_Alert.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_16_Condicional_if_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_17_Condicional_if_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_18_Validar_texto.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_1_By_XPATH.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_2_By_ID.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_3_By_Css.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_4_And.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_5_Keys_TAB.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_6_Navegar_Web.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_7_Implicit_wait.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_8_Explicit_wait.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_9_CheckBox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_gmail/enviar_email.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_gmail/paisaje.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/build/test_1/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/build/test_1/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/build/test_1/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/build/test_1/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/build/test_1/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/build/test_1/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/build/test_1/test_1.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/build/test_1/test_1.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/build/test_1/warn-test_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/build/test_1/xref-test_1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/dist/my_primer_script.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/dist/my_script.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/dist/noticias_09132023.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/link_pag_tiempo/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/noticias.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/noticias_headless.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/test_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyectos_Testing/Automatizar_web_noticias/test_1.spec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_SQL_Dalto/ejercicios_SQL.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Curso_SQL_Dalto/ejercicios_SQL.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Librerias_Selenium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Notas_Selenium.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Notas_Selenium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/functions/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/functions/funciones.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/functions/modulo_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/test_21_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/test_22_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/test_23_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/test_24_page_XPath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/test_25_page_ID.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/test_26_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/test_27_click_xpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/test_28_click_id.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/test_29_modulo_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/test_30_Select_Xpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Page_Object_Model/test_31_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/pizarra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_10_Select_ComboBox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_11_Select_Try_Catch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_12_Upload_Archivo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_13_Scroll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_14_Links_&amp;_TAG.NAME.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_15_Alert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_16_Condicional_if_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_17_Condicional_if_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_18_Validar_texto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_19_Base_Unittest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_1_By_XPATH.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_20_Prueba_login_Unittest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_2_By_ID.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_3_By_Css.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_4_And.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_5_Keys_TAB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_6_Navegar_Web.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_7_Implicit_wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_8_Explicit_wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_9_CheckBox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Selenium_Udemy/test_Reto_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ensayo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto_BDD_Behave_Gherkin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto_BDD_Behave_Gherkin/.idea/Proyecto_BDD_Behave_Gherkin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto_BDD_Behave_Gherkin/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto_BDD_Behave_Gherkin/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto_BDD_Behave_Gherkin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto_BDD_Behave_Gherkin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto_BDD_Behave_Gherkin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto_BDD_Behave_Gherkin/features/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto_BDD_Behave_Gherkin/features/steps/test_pasos_uno.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto_BDD_Behave_Gherkin/features/test_uno.feature" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,21 +156,24 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2Wzo29l4jalYIfottbHXsCGFiOe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrador/Desktop/Cursos Programacion&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Administrador/Desktop/Cursos Programacion",
+    "settings.editor.selected.configurable": "Errors"
   }
-}</component>
-  <component name="RunManager" selected="Python.test_14_Links_&amp;_TAG.NAME">
-    <configuration name="pizarra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.proyecto_dia_1">
+    <configuration name="practica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Cursos Programacion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cursos_Python/Curso_Python_Udemy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/pizarra.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cursos_Python/Curso_Python_Udemy/practica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_14_Links_&amp;_TAG.NAME" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="proyecto_dia_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Cursos Programacion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,23 +202,68 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cursos_Python/Curso_Python_Udemy/Dia_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales/test_14_Links_&amp;_TAG.NAME.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cursos_Python/Curso_Python_Udemy/Dia_1/proyecto_dia_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for pizarra.PruebaLogin" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Cursos Programacion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;pizarra.PruebaLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for pizarra.PruebaLogin.test_login_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Cursos Programacion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;pizarra.PruebaLogin.test_login_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for pizarra.PruebaLogin.test_login_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Cursos Programacion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso_Selenium_Udemy/Tests_Principales" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;pizarra.PruebaLogin.test_login_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_14_Links_&amp;_TAG.NAME" />
-        <item itemvalue="Python.pizarra" />
+        <item itemvalue="Python.proyecto_dia_1" />
+        <item itemvalue="Python.practica" />
+        <item itemvalue="Python tests.Python tests for pizarra.PruebaLogin" />
+        <item itemvalue="Python tests.Python tests for pizarra.PruebaLogin.test_login_1" />
+        <item itemvalue="Python tests.Python tests for pizarra.PruebaLogin.test_login_2" />
       </list>
     </recent_temporary>
   </component>

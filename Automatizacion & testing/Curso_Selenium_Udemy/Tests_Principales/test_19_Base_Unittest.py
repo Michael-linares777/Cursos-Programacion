@@ -1,17 +1,12 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-import time
-import unittest
-from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support.ui import Select
-
-# Creando clases para pruebas unitarias con Unittest...
+import unittest
 
 t = 2
 
+# Creando clases para pruebas unitarias con Unittest...
 class BaseTest(unittest.TestCase):
 
     def setUp(self): # Función inicial con Unittest...
@@ -20,13 +15,19 @@ class BaseTest(unittest.TestCase):
 
     # Aquí puedes realizar tus pruebas utilizando self.driver
     def test1(self):
-        self.driver.get("https://demo.seleniumeasy.com/")
-        self.driver.maximize_window()
-        time.sleep(t)
+        try:
+            with self.driver as driver:
+                driver.get("https://demo.seleniumeasy.com/")
+                driver.maximize_window()
+                # Utiliza esperas explícitas en lugar de time.sleep
+                WebDriverWait(driver, t).until(EC.presence_of_element_located((By.XPATH, "//tu/xpath/aqui")))
+                # Aquí puedes realizar tus pruebas utilizando driver
+
+        except Exception as e:
+            self.fail(f"Ocurrió un error: {e}")
 
     def tearDown(self): # Función final o de cierre con Unittest...
-        self.driver.close()
-        time.sleep(t)
+        self.driver.quit()
 
 if __name__ == "__main__":
     unittest.main()
